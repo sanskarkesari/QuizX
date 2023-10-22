@@ -1,0 +1,95 @@
+{  
+    "ques" : [  
+        "Who developed Python Programming Language?",  
+        "Which type of Programming does Python support?",  
+        "Which of the following is the correct extension of the Python file?",  
+        "Is Python code compiled or interpreted?",  
+        "All keywords in Python are in _________",
+        "Which keyword is used for function in Python language?",
+        "What does pip stand for python?",
+        "Which of the following is the truncation division operator in Python?",
+        "Which of the following functions is a built-in function in python?",
+        "What is the maximum possible length of an identifier in Python?"
+      
+      
+
+    ],  
+    "ans" : [  
+        3,  
+        4,  
+        3,  
+        1,  
+        4,
+        2,
+        3,
+        2,
+        2,
+        4
+
+    ],  
+    "choices" : [  
+        [  
+            "Wick van Rossum",
+            "Rasmus Lerdorf",
+            "Guido van Rossum",
+            "Niene Stom"
+        ],  
+        [  
+            "object-oriented programming",
+            "structured programming",
+            "functional programming",
+            "all of the mentioned"
+        ],  
+        [  
+            ".python",
+            ".pl",
+            ".py",
+            ".p" 
+        ],  
+        [  
+            "Python code is both compiled and interpreted",
+            "Python code is neither compiled nor interpreted",
+            "Python code is only compiled",
+            "Python code is only interpreted"
+        ],  
+        [  
+            "Capitalized",
+            "lower case",
+            "UPPER CASE",
+            "None of the mentioned" 
+        ],
+        [
+            "Function",
+            "def",
+            "Fun",
+            "Define"
+        ],
+        [
+            "Pip Installs Python",
+            "Pip Installs Packages",
+            "Preferred Installer Program",
+            "All of the mentioned"
+
+        ],
+        [
+            "|",
+            "//",
+            "/",
+            "%"
+            
+        ],
+        [
+            "factorial()",
+            "print()",
+            "seed()",
+            "sqrt()"
+        ],
+        [
+            "79 characters",
+            "31 characters",
+            "63 characters",
+            "none of the mentioned"
+        ]
+      
+    ]  
+}  
